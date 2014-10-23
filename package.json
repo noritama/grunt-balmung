@@ -40,6 +40,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "balmung": "~0.3.0"
+    "balmung": "git://github.com/noritama/balmung.git#69e8872"
   }
 }
